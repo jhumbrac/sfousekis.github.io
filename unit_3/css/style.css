@@ -1,9 +1,28 @@
 body {
 	background-color: #f1f1f1;
 	font-family: arial;
-	font-size: 
+	font-size: 100%;
+	font-weight: normal;
+
+h1 {
+	color: 80bd01;
+	font-style: italic;
 }
-h1{color: 80bd01;
+p1{
+	color: 00b3e3;
 }
-p1{color: 00b3e3;
+
+h2{
+	color: 80bd01;
+	font-style: italic;
 }
+p2{
+	color: 00b3e3;
+} 
+h3{
+	color: 80bd01;
+	font-style: italic;
+}
+p3{
+	color: 00b3e3;
+} 
