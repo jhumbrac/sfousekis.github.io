@@ -1,31 +1,24 @@
 @import url(https://fonts.googleapis.com/css?family=Lora:400,400italic,700,700italic);
 body {
 	background-color: #f1f1f1;
+	color: #00b3e3;
 	font-family: 'Lora', serif;
 	font-size: 100%;
 	line-height: 1.5em;
-	margin: 2em;
 	font-weight: normal;
-
-h1 {
-	color: 80bd01;
-	font-family: 'Lora', serif, bold;
 }
-p1{
-	color: 00b3e3;
+header img {
+	float:left;
 }
-
-h2{
-	color: 80bd01;
-	font-family: 'Lora', serif, bold;
+nav {
+	float:right;
 }
-p2{
-	color: 00b3e3;
-} 
-h3{
-	color: 80bd01;
-	font-family: 'Lora', serif, bold;
+section#splash {
+	background:url(../images/ChairShot.jpg) no-repeat right;
+	background-size:cover;
+	height:75vh;
+	padding:5em;
 }
-p3{
-	color: 00b3e3;
-} 
+h1,h2,h3 {
+	color: #80bd01;
+}
